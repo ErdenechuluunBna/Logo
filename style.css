@@ -1,0 +1,34 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: rgb(150, 143, 143);
+    height: 125px;
+    display: flex;
+}
+
+.twit {
+    background-color: cyan;
+}
+
+.fb {
+    background-color: blue;
+}
+
+.ins {
+    background-color: rgb(194, 58, 126);
+}
+
+.link {
+    width: 65px;
+    height: 65px;
+    margin: 20px 10px;
+}
+
+.Logo {
+    margin: 20px;
+    height: 50px;
+    height: 75px;
+}
